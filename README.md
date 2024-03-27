@@ -4,7 +4,7 @@ My library for my studies on my college. All of the books are in Portuguese [PT-
 
 ## English 🗂
 
-    English for Everyone - English Vocabulary Builder (Thomas Booth, DK).pdf
+    ~~English for Everyone - English Vocabulary Builder (Thomas Booth, DK).pdf~~
 
 ## HTML5 / CSS3 🗂
     
